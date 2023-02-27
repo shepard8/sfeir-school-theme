@@ -11726,7 +11726,7 @@ class vY {
       "bg-pink": `${this.path}${oe}/bg-green-1.png`,
       "bg-blue": `${this.path}${oe}/bg-green-1.png`,
       "bg-green": `${this.path}${oe}/bg-green-1.png`,
-      "bg-blur": `${this.path}${oe}/bg-blue-blur.jpeg`,
+      "bg-blur": `${this.path}${oe}/${t === "institute" ? "bg-blue-blur.jpeg" : "bg-green-blur.jpeg"}`,
       "transition-bg-sfeir-1": `${this.path}${oe}/${t === "institute" ? "bg-blue-1.png" : "bg-green-1.png"}`,
       "transition-bg-sfeir-2": `${this.path}${oe}/${t === "institute" ? "bg-blue-1.png" : "bg-green-1.png"}`,
       "transition-bg-sfeir-3": `${this.path}${oe}/${t === "institute" ? "bg-blue-1.png" : "bg-green-1.png"}`,
